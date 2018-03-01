@@ -1,4 +1,5 @@
 #include<iostream>
+#include"LeetCode.h"
 using namespace std;
 int main()
 {
